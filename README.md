@@ -1,6 +1,6 @@
 # Atomic Charts
 
-D3 Chart Library using Atomic Design and React composition pattern.
+Experimental D3 Chart Library using Atomic Design and React composition pattern and also Redux Pattern with useReducer Hook. See an example on Netlify https://romantic-curie-4135d6.netlify.app
 
 ## Available Scripts
 

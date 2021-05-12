@@ -2,7 +2,7 @@
   "name": "atomic-charts",
   "version": "0.0.1",
   "description": "D3 Chart Library using Atomic Design and React composition pattern",
-  "author": "Frank Simon Lechner",
+  "author": "fsl0110",
   "private": true,
   "license": "MIT",
   "repository": {
